@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Untuk Kalila 🌸</title>
+  <title>Untuk Mayla 🌸</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -401,10 +401,10 @@
 
   <div class="card">
 
-    <h1>Terima Kasih Kalila 🌸</h1>
+    <h1>Terima Kasih Mayla 🌸</h1>
 
     <p style="text-align:center;">
-      Sebuah pesan singkat untuk Kalila
+      Sebuah pesan singkat untuk Mayla
       yang telah menjadi bagian dari cerita magangku ✨
     </p>
 
@@ -421,10 +421,10 @@
 
   <div class="card">
 
-    <h2>Pesan untuk Kalila ✨</h2>
+    <h2>Pesan untuk Mayla ✨</h2>
 
     <p>
-      Hallo Kalila, cepat terasa masa magang sudah selesai.
+      Hallo Mayla, cepat terasa masa magang sudah selesai.
       Makasih ya karena sudah nemenin,
       bantuin kerjaan ini itu dan udah sabar banget ngadepin aku hehe...
     </p>
@@ -444,12 +444,12 @@
       Oh iya makasih buat coklat, ganci sama note-nya ya, 
       Makasih udah effort, 
       Kemaren aku ngga liat kamu nangis apa engga, 
-      kalau sampai nangis ya ngga nyangka aja si Kalila yang biasanya keliatan ceria bisa nangis, 
+      kalau sampai nangis ya ngga nyangka aja si Mayla yang biasanya keliatan ceria bisa nangis, 
       sisi lembut hati cewek 🌸, mungkin kalian dah deket bgt ya sama magang dan orang-orang CRU,
       aku jg berharap punya temen deket kek kalian yang keliatan deket bgt hubungannya tapi yang cowokkk wkwk 😅.
     </p>
     <p> 
-      Kalila kelak kalau udah jadi orang hebat jan lupa aku ya, 
+      Mayla kelak kalau udah jadi orang hebat jan lupa aku ya, 
       InsyaAllah jadi orang berpengaruh dan kelak jadi orang hebat.
       Sedikit kata-kata dari aku,
     </p>
@@ -460,7 +460,7 @@
       Selamat melanjutkan perjalanan baru. 
       Terima kasih sudah mewarnai hari-hari magang jadi lebih seru. 
       Semoga semua usaha dan perjuanganmu membawamu ke masa depan yang indah. 
-      Jangan lupa tetap semangat dan jaga kesehatan ya Kalila 🤍.
+      Jangan lupa tetap semangat dan jaga kesehatan ya Mayla 🤍.
     </p>
 
     <p>
@@ -829,7 +829,7 @@ function showFinishAnimation(){
 
       <p class="highlight">
         Assalamualaikum,
-        Jazakillah Khairan Kalila 🌸
+        Jazakillah Khairan Mayla 🌸
       </p>
 
     </div>
